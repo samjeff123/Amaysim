@@ -1,4 +1,4 @@
-## My amaysim automation test suite
+## amaysim automation test suite
 a simple test suite that logs into MyAmaysim and
 validates that the manage settings functionality
 
